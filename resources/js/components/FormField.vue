@@ -18,6 +18,9 @@
                             // BelongsTo field
                             component.$watch('selectedResourceId', this.dependencyWatcher, {immediate: true})
                             this.dependencyWatcher(component.selectedResourceId)
+
+                            component.$watch('selectedResource', this.dependencyWatcher, {immediate: true})
+                            this.dependencyWatcher(component.selectedResource.id)
                         }
                         else if( component.value !== undefined ) {
                             // Text based fields
