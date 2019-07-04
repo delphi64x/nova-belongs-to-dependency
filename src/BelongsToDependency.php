@@ -1,6 +1,6 @@
 <?php
 
-namespace Manmohanjit\BelongsToDependency;
+namespace Delphi64x\BelongsToDependency;
 
 use Laravel\Nova\Fields\BelongsTo;
 use Laravel\Nova\Http\Requests\NovaRequest;
