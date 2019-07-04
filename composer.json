@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Manmohanjit\\BelongsToDependency\\": "src/"
+            "Delphi64x\\BelongsToDependency\\": "src/"
         }
     },
     "extra": {
