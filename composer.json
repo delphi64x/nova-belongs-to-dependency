@@ -1,5 +1,5 @@
 {
-    "name": "manmohanjit/nova-belongs-to-dependency",
+    "name": "delphi64x/nova-belongs-to-dependency",
     "description": "Extended Laravel Nova BelongsTo field that can depend on other fields",
     "keywords": [
         "laravel",
@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Manmohanjit\\BelongsToDependency\\FieldServiceProvider"
+                "Delphi64x\\BelongsToDependency\\FieldServiceProvider"
             ]
         }
     },
