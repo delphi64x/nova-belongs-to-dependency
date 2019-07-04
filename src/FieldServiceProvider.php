@@ -1,6 +1,6 @@
 <?php
 
-namespace Manmohanjit\BelongsToDependency;
+namespace Delphi64x\BelongsToDependency;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
